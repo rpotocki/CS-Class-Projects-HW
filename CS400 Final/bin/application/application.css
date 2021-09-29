@@ -1,0 +1,15 @@
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.create-question-button {
+	-fx-pref-width: 250px;
+	-fx-pref-height: 75px;
+	-fx-font-size: 20;
+}
+
+.quiz-button {
+	-fx-pref-width: 250px;
+	-fx-pref-height: 75px;
+	-fx-font-size: 20;
+	
+}
